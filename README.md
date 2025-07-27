@@ -25,8 +25,7 @@
 - Advanced data modeling and ML pipelines  
 - Cloud tools for data analytics (e.g., BigQuery, Azure)
 
-### 📫 Let's connect!
-I’m always open to collaboration, learning opportunities, and discussing data challenges.  
+
 Feel free to explore my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/mariana-pb/).
 
 
