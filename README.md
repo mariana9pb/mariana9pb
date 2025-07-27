@@ -2,7 +2,7 @@
 
 💻 Business Intelligence & Data Analyst
 🎓 Data science graduate with a passion for continuous learning & growth.
-📊 Skilled in Python, SQL, Power BI, and Excel for analysis, modeling, and automation.
+📊 Skilled in Python, SQL, Power BI, and Excel.
 
 ### 🔍 What I do
 - Build predictive models (churn, regression, classification)
