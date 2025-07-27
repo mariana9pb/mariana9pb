@@ -21,9 +21,10 @@
 - 🚕 *Taxi Data Analysis:* Analyzed ride patterns and weather impact using SQL & Python
 - 💰 *Finance Planning Support:* Built dashboards to improve headcount and budget accuracy
 
-### 🌱 Currently Learning
-- Advanced data modeling and ML pipelines  
-- Cloud tools for data analytics (e.g., BigQuery, Azure)
+### 🎯 Professional Goals
+- Keep growing as a data analyst and eventually transition into data science roles focused on predictive modeling, product analytics, or business strategy  
+- Collaborate in diverse, curious teams that value learning and creative problem solving
+
 
 
 Feel free to explore my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/mariana-pb/).
