@@ -6,7 +6,6 @@ My interests include data analytics, machine learning, predictive modeling, and 
 
 
 🎓 Business Intelligence & Data Analyst (BIDA) by Corporate Finance Institute.
-
 🎓 Data Science bootcamp by TripleTen.
 
 
