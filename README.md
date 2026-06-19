@@ -6,27 +6,28 @@ My interests include data analytics, machine learning, predictive modeling, and 
 
 
 🎓 Business Intelligence & Data Analyst (BIDA) by Corporate Finance Institute.
+
 🎓 Data Science bootcamp by TripleTen.
 
 
-### 🔍 What I learned through my certifications
+#### 🔍 What I learned through my certifications
 - Building predictive models (churn, regression, classification)
 - Creating dashboards and automating reports (Power BI, Excel)
 - Analyzing and visualizing data using Python and SQL
 - Developing data-driven solutions to improve business processes
 
-### 🛠️ Tools & Technologies
+#### 🛠️ Tools & Technologies
 - **Languages & Libraries:** Python (pandas, scikit-learn, seaborn, matplotlib), SQL  
 - **BI & Data Tools:** Power BI, Excel (Power Query, Power Pivot), Tableau  
 - **Other:** Git/GitHub, Jupyter Notebook, statistical analysis, A/B testing
 
-### 📂 Featured Projects
+#### 📂 Featured Projects
 - 🎯 *Churn Prediction:* Identified high-risk customers using XGBoost (F1-score: 0.81)
 - ⚙️ *Gold Recovery Optimization:* Built a regression model to improve industrial efficiency
 - 🚕 *Taxi Data Analysis:* Analyzed ride patterns and weather impact using SQL & Python
 - 💰 *Finance Planning Support:* Built dashboards to improve headcount and budget accuracy
 
-### 🎯 Professional Goals
+#### 🎯 Professional Goals
 - I aspire to pursue a Master's degree in data-related fields and contribute to the development of data-driven solutions that address real-world challenges.
 
 
