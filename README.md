@@ -1,10 +1,16 @@
 ## 👋 Hi, I'm Mariana!
 
-💻 Business Intelligence & Data Analyst
-🎓 Data science graduate with a passion for continuous learning & growth.
-📊 Skilled in Python, SQL, Power BI, and Excel.
+I am an FP&A Analyst with a background in Financial Administration and Systems, currently transitioning into data-related fields through formal training, independent projects, and applied analytics experience.
 
-### 🔍 What I do
+My interests include data analytics, machine learning, predictive modeling, and data systems that support informed decision-making.
+
+By combining my background in finance with advanced analytical and technical skills, I aim to help organizations transform data into actionable insights and measurable impact.
+
+🎓 Business Intelligence & Data Analyst (BIDA) by Corporate Finance Institute.
+🎓 Data Science bootcamp by TripleTen.
+
+
+### 🔍 What I learned through my certifications
 - Build predictive models (churn, regression, classification)
 - Create dashboards and automate reports (Power BI, Excel)
 - Analyze and visualize data using Python and SQL
@@ -22,12 +28,11 @@
 - 💰 *Finance Planning Support:* Built dashboards to improve headcount and budget accuracy
 
 ### 🎯 Professional Goals
-- Keep growing as a data analyst and eventually transition into data science roles focused on predictive modeling, product analytics, or business strategy  
-- Collaborate in diverse, curious teams that value learning and creative problem solving
+- I aspire to pursue a Master's degree in data-related fields and contribute to the development of data-driven solutions that address real-world challenges.
 
 
 
-Feel free to explore my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/mariana-pb/).
+This GitHub serves as a portfolio of projects completed during my Data Science training and independent learning journey.
 
 
 
