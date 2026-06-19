@@ -4,9 +4,9 @@ I am an FP&A Analyst with a background in Financial Administration and Systems, 
 
 My interests include data analytics, machine learning, predictive modeling, and data systems that support informed decision-making.
 
-By combining my background in finance with advanced analytical and technical skills, I aim to help organizations transform data into actionable insights and measurable impact.
 
 🎓 Business Intelligence & Data Analyst (BIDA) by Corporate Finance Institute.
+
 🎓 Data Science bootcamp by TripleTen.
 
 
