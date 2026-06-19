@@ -10,10 +10,10 @@ My interests include data analytics, machine learning, predictive modeling, and 
 
 
 ### 🔍 What I learned through my certifications
-- Build predictive models (churn, regression, classification)
-- Create dashboards and automate reports (Power BI, Excel)
-- Analyze and visualize data using Python and SQL
-- Develop data-driven solutions to improve business processes
+- Building predictive models (churn, regression, classification)
+- Creating dashboards and automating reports (Power BI, Excel)
+- Analyzing and visualizing data using Python and SQL
+- Developing data-driven solutions to improve business processes
 
 ### 🛠️ Tools & Technologies
 - **Languages & Libraries:** Python (pandas, scikit-learn, seaborn, matplotlib), SQL  
