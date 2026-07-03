@@ -27,9 +27,6 @@ My interests include data analytics, machine learning, predictive modeling, and 
 - 🚕 *Taxi Data Analysis:* Analyzed ride patterns and weather impact using SQL & Python
 - 💰 *Finance Planning Support:* Built dashboards to improve headcount and budget accuracy
 
-#### 🎯 Professional Goals
-- I aspire to pursue a Master's degree in data-related fields and contribute to the development of data-driven solutions that address real-world challenges.
-
 
 
 This GitHub serves as a portfolio of projects completed during my Data Science training and independent learning journey.
