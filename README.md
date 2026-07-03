@@ -18,7 +18,7 @@ My interests include data analytics, machine learning, predictive modeling, and 
 
 #### 🛠️ Tools & Technologies
 - **Languages & Libraries:** Python (pandas, scikit-learn, seaborn, matplotlib), SQL  
-- **BI & Data Tools:** Power BI, Excel (Power Query, Power Pivot), Tableau  
+- **BI & Data Tools:** Power BI, Excel (Power Query, Power Pivot)  
 - **Other:** Git/GitHub, Jupyter Notebook, statistical analysis, A/B testing
 
 #### 📂 Featured Projects
