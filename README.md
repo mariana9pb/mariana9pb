@@ -4,9 +4,9 @@ I am an FP&A Analyst with a background in Financial Administration and Systems, 
 
 My interests include data analytics, machine learning, predictive modeling, and data systems that support informed decision-making.
 
--- 🎓 Bachelor's Degree in Financial Management and Systems by University of Guadalajara.
--- 🎓 Business Intelligence & Data Analyst (BIDA) by Corporate Finance Institute.
--- 🎓 Data Science bootcamp by TripleTen.
+-🎓 Bachelor's Degree in Financial Management and Systems by University of Guadalajara.
+-🎓 Business Intelligence & Data Analyst (BIDA) by Corporate Finance Institute.
+-🎓 Data Science bootcamp by TripleTen.
 
 
 #### 🔍 What I learned through my certifications
